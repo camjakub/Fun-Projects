@@ -1,1 +1,2 @@
 # Principal Components Analysis
+This is a project I completed for UNIV*6080: Computational Thinking for Artificial Intelligence at the University of Guelph. This notebook provides an outline of the mathematical theory behind principal components analysis, as well as multiple ways to implement PCA in Python code. We start by building up the theory and coding PCA from scratch on a simpe dataset, and then work our way up to implementing PCA on images of human faces using the scikit-learn package. We show that the principal components of faces reveal some spooky patterns!
